@@ -1,0 +1,64 @@
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Cabin:wght@400;500&family=Poppins:wght@300;400;500&family=Roboto:wght@300;400;500&display=swap");
+.font-amatic {
+    font-family: "Amatic SC", cursive;
+}
+.font-cabin {
+    font-family: "Cabin", cursive;
+}
+.font-poppins {
+    font-family: "Poppins", cursive;
+}
+.font-roboto {
+    font-family: "Roboto", cursive;
+}
+
+/* backgroun color */
+.bg-jdark {
+    background-color: #474747;
+}
+.bg-jblue {
+    background-color: #586586;
+}
+.bg-jyellow {
+    background-color: #e4ce80;
+}
+.bg-jgreen {
+    background-color: #9bd474;
+}
+.bg-jwhite {
+    background-color: #f1e3df;
+}
+
+/* text color */
+.text-jwhite {
+    text-decoration: none;
+    color: #f1e3df;
+}
+.text-jdark {
+    text-decoration: none;
+    color: #545454;
+}
+.text-jblue {
+    text-decoration: none;
+    color: #94b3f6;
+}
+.text-jgreen {
+    color: #9bd474;
+}
+
+/* Document */
+p {
+    font-family: "Roboto", cursive;
+}
+h1 {
+    font-family: "Amatic SC", cursive;
+}
+h2 {
+    font-family: "Cabin", cursive;
+}
+
+/* component */
+.jcard {
+    background-color: hsla(13, 39%, 91%, 0.241);
+}
